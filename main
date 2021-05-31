@@ -5,3 +5,14 @@ String ResName;
 String ResLocation;
 int ResphoneNo;
 }
+class vendorDetails
+{
+int ResID;
+String ResName;
+String ResLocation;
+String ownerResName; 
+int productID;
+String productName;
+int price;
+
+}
