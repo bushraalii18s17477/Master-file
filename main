@@ -5,3 +5,13 @@ String ResName;
 String ResLocation;
 int ResphoneNo;
 }
+
+}
+class delivery
+class Restaurant
+{
+int ResID;
+String ResName;
+String ResLocation;
+int ResphoneNo;
+}
