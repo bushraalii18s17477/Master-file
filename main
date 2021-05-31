@@ -5,3 +5,11 @@ String ResName;
 String ResLocation;
 int ResphoneNo;
 }
+class customer
+{
+int cusID;
+String cusName;
+String cusEmail;
+int cusphonenumber;
+
+}
