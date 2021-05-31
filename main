@@ -1,0 +1,7 @@
+class Restaurant
+{
+int ResID;
+String ResName;
+String ResLocation;
+int ResphoneNo;
+}
